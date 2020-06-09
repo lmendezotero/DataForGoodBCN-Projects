@@ -1,0 +1,27 @@
+RangeIndex: 170 entries, 0 to 169
+Data columns (total 21 columns):
+
+Documento                             170 non-null object
+Genero                                170 non-null object
+Alta Incorporación                    170 non-null object
+Objectivo Laboral                     128 non-null object
+Estado                                137 non-null object
+Ultimas Acciones                      106 non-null object
+Estado Salud                          164 non-null object
+Vivienda                              170 non-null object
+Condiciones Vivienda                  140 non-null object
+Municipio                             161 non-null object
+Padron                                153 non-null object
+Alimentacion garantida                169 non-null object
+Seguimiento Servicioss Sociales       160 non-null object
+Targeta Sanitaria                     152 non-null object
+Autovaloració estat psicoemocional    154 non-null object
+Expectativas                          126 non-null object
+Necesidades Actuales                  62 non-null object
+Resum Entrevista                      135 non-null object
+Recursos Recomendados                 45 non-null object
+Formacion en Linea                    39 non-null object
+Bajas                                 170 non-null object
+
+dtypes: object(21)
+memory usage: 28.0+ KB
