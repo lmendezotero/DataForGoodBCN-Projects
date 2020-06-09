@@ -1,2 +1,2 @@
 # DataForGood Barcelona
-A repository to store all my collaboration projects with DataForGood and non-profit organizations.
+A repository to store some collaboration projects with DataForGood and non-profit organizations.
