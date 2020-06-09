@@ -1,5 +1,5 @@
 # DataForGood Projects 🚀
-A repository to store some collaboration projects with DataForGood and non-profit organizations.
+A repository to store some collaborative projects on data science and analytics with DataForGood and non-profit organizations.
 
 
 ### Folders Structure Project Notes 📋
