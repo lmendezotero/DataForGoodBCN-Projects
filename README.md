@@ -9,6 +9,7 @@ A repository to store some collaboration projects with DataForGood and non-profi
 
 
 [OneNote - Análisis Crisis Social y COVID19](https://onedrive.live.com/redir?resid=ED1967779D009305%21262&page=Edit&wd=target%28Introducci%C3%B3n.one%7C%2FDescripci%C3%B3n%20%20Objetivos%7Cc647c425-6f6f-4782-a5f0-bf680a4c38d2%2F%29) 
+[PPT - Análisis Crisis Social_Impacto COVID19](https://onedrive.live.com/edit.aspx?cid=ed1967779d009305&page=view&resid=ED1967779D009305!323&parId=ED1967779D009305!271&app=PowerPoint) 
 
 
 ## Authors ✒️
