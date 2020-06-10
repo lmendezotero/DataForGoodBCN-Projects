@@ -16,4 +16,4 @@ A repository to store some collaborative projects on data science and analytics 
 ## Authors ✒️
 
 * **Lorena Méndez Otero** - [lmendezotero](https://github.com/lmendezotero) 
-* **Victoria Rebillas** - [V](https://github.com/) 
+* **Victoria Rebillas** - [victoria-rebillas](https://github.com/victoria-rebillas) 
