@@ -2,7 +2,7 @@
 A repository to store some collaborative projects on data science and analytics with DataForGood and non-profit organizations.
 
 
-### Folders Structure Project Notes 📋
+### Presentation & Project Notes 📋
 
 
 #### Integramenet - Proyecto Seguimiento COVID19
