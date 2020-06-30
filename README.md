@@ -10,7 +10,7 @@ Project Goal => Analysis of a series of data collected by the Integramenet Found
 
 [Project Folder - Crisis Social & COVID19](https://github.com/lmendezotero/DataForGoodBCN-Projects/tree/master/Integramanet/Crisis%20Social%20%26%20COVID19)
 
-[Project Presentation - Análisis Crisis Social_Impacto COVID19](https://github.com/lmendezotero/DataForGoodBCN/blob/master/Integramanet/Crisis%20Social%20%26%20COVID19/Analisis%20Crisis%20Social_Impacto%20COVID19%20-%20Integramanet.pdf) 
+[Project Presentation - Análisis Crisis Social_Impacto COVID19](https://github.com/lmendezotero/DataForGoodBCN-Projects/blob/master/Integramanet/Crisis%20Social%20%26%20COVID19/Analisis%20Crisis%20Social_Impacto%20COVID19%20-%20Integramanet.pdf) 
 
 
 ## Authors ✒️
