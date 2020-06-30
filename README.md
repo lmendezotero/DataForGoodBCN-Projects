@@ -4,7 +4,7 @@ A repository to store some collaborative projects on data science and analytics 
 
 ### Folders & Projects Presentation 📋
 
-#### Integramenet - Proyecto Seguimiento COVID19
+#### Integramenet - COVID-19 and Social Crisis Tracking Project
 
 Project Goal => Analysis of a series of data collected by the Integramenet Foundation in order to see how the health crisis caused by COVID-19 has affected the society and check the most urgent social needs.
 
