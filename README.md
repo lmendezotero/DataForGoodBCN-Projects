@@ -2,11 +2,11 @@
 A repository to store some collaborative projects on data science and analytics with DataForGood and non-profit organizations.
 
 
-### Folders Structure & Project Notes 📋
+### Folders & Projects Presentation 📋
 
 #### Integramenet - Proyecto Seguimiento COVID19
 
-Project Goal => New social needs have emerged due to the health crisis caused by COVID-19.
+Project Goal => Analysis of a series of data collected by the Integramenet Foundation in order to see how the health crisis caused by COVID-19 has affected the society and check the most urgent social needs.
 
 
 [PDF - Análisis Crisis Social_Impacto COVID19](https://github.com/lmendezotero/DataForGoodBCN/blob/master/Integramanet/Crisis%20Social%20%26%20COVID19/Analisis%20Crisis%20Social_Impacto%20COVID19%20-%20Integramanet.pdf) 
